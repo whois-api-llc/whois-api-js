@@ -1,0 +1,39 @@
+{
+  "name": "whois-api-js",
+  "version": "1.0.0",
+  "description": "Whois API client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && nyc --reporter=text mocha"
+  },
+  "keywords": [
+    "whois",
+    "api",
+    "whoisxmlapi"
+  ],
+  "author": "WHOIS API, Inc",
+  "license": "MIT",
+  "dependencies": {
+    "urllib": "^2.38.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.4",
+    "nock": "^13.2.2",
+    "nyc": "^15.1.0",
+    "standard": "*"
+  },
+  "standard": {
+    "env": [ "mocha" ]
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whois-api-llc/whois-api-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whois-api-llc/whois-api-js/issues"
+  },
+  "homepage": "https://github.com/whois-api-llc/whois-api-js#readme"
+}

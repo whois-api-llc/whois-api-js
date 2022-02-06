@@ -1,0 +1,6 @@
+.nyc*
+.idea
+package-lock.json
+node_modules
+/coverage
+*.DS_Store
