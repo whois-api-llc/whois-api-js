@@ -1,5 +1,5 @@
 [![whois-api-js licence](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![whois-api-js release](https://img.shields.io/npm/v/whois-api-js.svg)](https://img.shields.io/npm/v/whois-api-js.svg)
+[![whois-api-js release](https://img.shields.io/npm/v/whois-api-js.svg)](https://www.npmjs.com/package/whois-api-js)
 [![whois-api-js build](https://github.com/whois-api-llc/whois-api-js/workflows/Build/badge.svg)](https://github.com/whois-api-llc/whois-api-js/actions)
 
 # Overview
